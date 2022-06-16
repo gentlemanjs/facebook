@@ -45,5 +45,5 @@
     ]
   },
   "proxy": "http://localhost:8000/api",
-  "homepage": "https://gentlemanjs-facebook.netlify.app/"
+  "homepage": "https://gentlemanjs.github.io/facebook_project/"
 }
